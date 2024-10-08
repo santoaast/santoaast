@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @santoaast
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning coding
-- 💞️ I’m looking to collaborate on coding
-- 📫 How to reach me coding
+- 👋 Hi, I’m Ysha!
+- 📚 I'm currently a fourth year at the University of Toronto
+- ✨ I'm hoping to get into UX/UI or front end work!
 
 <!---
 santoaast/santoaast is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
